@@ -8,7 +8,7 @@ For run this project you need use following steps:
 
 4.Back to previos folder wich includes manage.py and run: "pip install --upgrade pip" => "pip install -r requirements.txt";
 
-5.Activate modules in XAMPP: Apache and MySQL You can see how to connect it with django in the next video, if something didn’t work out for you: https://www.youtube.com/watch?v=yWD0yDMouVY To see your databases you can view them at: http://localhost/phpmyadmin
+5.Activate modules in XAMPP: Apache and MySQL You can see how to connect it in the next video, if something didn’t work out for you: https://www.youtube.com/watch?v=yWD0yDMouVY To see your databases you can view them at: http://localhost/phpmyadmin
 
 6.Now in the config.py file you need to enter your details to communicate with your database
 
